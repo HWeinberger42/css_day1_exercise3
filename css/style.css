@@ -1,0 +1,11 @@
+#articlebanner{
+    height: 200px;
+}
+
+.headerdiv, .headerdiv *{
+    display: inline;
+}
+
+li::marker{
+    content: none;
+}
