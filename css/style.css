@@ -3,9 +3,10 @@
 }
 
 .headerdiv, .headerdiv *{
+    font-style: italic;
     display: inline;
 }
 
-li::marker{
+/* li::marker{
     content: none;
-}
+} when li is set to inline, it loses its bullt points automatically*/
